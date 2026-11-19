@@ -59,7 +59,6 @@ dependencies {
 
     implementation(libs.mlkit.image.labeling)
     implementation(libs.mlkit.image.labeling.custom)
-    implementation(libs.tensorflow.lite)
 
     testImplementation(libs.junit)
 
