@@ -1,0 +1,26 @@
+
+# Android Studio
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+
+# Archivos generados
+build/
+**/build/
+/captures/
+
+# Compilacion nativa
+.externalNativeBuild/
+.cxx/
+
+# Archivos temporales
+*.log
+*.hprof
+.DS_Store
+Thumbs.db
+
+# Claves de firma
+*.jks
+*.keystore
